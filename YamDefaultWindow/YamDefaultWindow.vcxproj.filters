@@ -52,4 +52,8 @@
       <Filter>리소스 파일</Filter>
     </Image>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="tigers.yaml" />
+    <None Include="leopards.yaml" />
+  </ItemGroup>
 </Project>
