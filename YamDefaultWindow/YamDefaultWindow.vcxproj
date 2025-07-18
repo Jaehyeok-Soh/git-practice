@@ -158,7 +158,10 @@
     <Image Include="YamDefaultWindow.ico" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="jaguars.yaml" />
     <None Include="leopards.yaml" />
+    <None Include="panthers.yaml" />
+    <None Include="pumas.yaml" />
     <None Include="tigers.yaml" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
